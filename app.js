@@ -1,3 +1,4 @@
+//GitHub - @killerbean3 - GroceryList-Javascript
 // ****** select items **********
 
 const form = document.querySelector(".grocery-form");
